@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RecordDialog</string>
+    <string name="already_recording">Already recording</string>
+    <string name="warning_phone_storage_full">Your Phone storage is full, Can\'t record audio </string>
+    <string name="warning_audio_length_limit">Can\'t record above 3 Min audio </string>
+</resources>
